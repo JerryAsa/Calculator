@@ -1,6 +1,6 @@
 **//Simple Calculator//**
 
-Ein einfacher Taschenrechner mit einer ansprechenden Benutzeroberfläche, ähnlich dem Apple Calculator. Entwickelt mit JavaScript, HTML und CSS.
+A simple calculator with a nice user interface, similar to the Apple Calculator. Developed using JavaScript, HTML, and CSS.
 
 **Functionen**
 - *Basic Arithmetic*: Addition, subtraction, multiplication, and division.
