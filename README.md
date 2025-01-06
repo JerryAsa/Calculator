@@ -8,6 +8,7 @@ Ein einfacher Taschenrechner mit einer ansprechenden Benutzeroberfläche, ähnli
 - *Responsive Design*: Optimized for different screen sizes, including mobile devices.
 
 **Installation**
+
 Clone or download the repository.
 
 **Usage**
