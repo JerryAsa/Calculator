@@ -1,30 +1,18 @@
-Simple Calculator
+**//Simple Calculator//**
+
 Ein einfacher Taschenrechner mit einer ansprechenden Benutzeroberfläche, ähnlich dem Apple Calculator. Entwickelt mit JavaScript, HTML und CSS.
 
-Funktionen
-Grundrechenarten: Addition, Subtraktion, Multiplikation und Division.
+**Functionen**
+- *Basic Arithmetic*: Addition, subtraction, multiplication, and division.
+- *User-Friendly Interface*: Intuitive design that is easy to use.
+- *Responsive Design*: Optimized for different screen sizes, including mobile devices.
 
-Erweiterte Funktionen: Prozentrechnung, Quadratwurzel und Potenz.
+**Installation**
+Clone or download the repository.
 
-Benutzerfreundliche Oberfläche: Intuitives Design, das einfach zu bedienen ist.
+**Usage**
+1. Open the index.html file in a web browser.
+2. Use the buttons or mouse to perform calculations.
 
-Responsive Design: Optimiert für verschiedene Bildschirmgrößen, einschließlich Mobilgeräte.
-
-Installation
-Repository klonen:
-
-bash
-git clone https://github.com/dein-benutzername/simple-calculator.git
-In das Projektverzeichnis wechseln:
-
-bash
-cd simple-calculator
-Öffne die index.html Datei in deinem bevorzugten Browser.
-
-Nutzung
-Öffne die index.html Datei in einem Webbrowser.
-
-Verwende die Tasten oder die Maus, um Berechnungen durchzuführen.
-
-Beitrag
-Beiträge sind willkommen! Bitte erstelle einen Pull-Request oder öffne ein Issue, um Fehler zu melden oder neue Funktionen vorzuschlagen.
+Contribution
+Contributions are welcome! Please create a pull request or open an issue to report bugs or suggest new features.
